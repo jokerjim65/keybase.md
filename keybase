@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jokerjim65 on github.
+  * I am jokerjim (https://keybase.io/jokerjim) on keybase.
+  * I have a public key ASCWmKrHtVkqXTleibx573YOxWHp1vznrslgjgpgg1qZpAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209698aac7b5592a5d395e89bc79ef760ec561e9d6fce7aec9608e0a60835a99a40a",
+      "host": "keybase.io",
+      "kid": "01209698aac7b5592a5d395e89bc79ef760ec561e9d6fce7aec9608e0a60835a99a40a",
+      "uid": "11a3665b324dc7fb9f7d2fb43e11cc19",
+      "username": "jokerjim"
+    },
+    "merkle_root": {
+      "ctime": 1568483055,
+      "hash": "ece0829a7356b4277428b8b9aec48a94c966da900018200fdad384220c86b60954a2cc7b0adf7405be770dedcc53c21fb1b1513567a7fd4b712711a8fbb42e80",
+      "hash_meta": "572b34a4c5336cd54f23e67faf7522ad54431ac67da3c66161d936e8622cf05c",
+      "seqno": 7337382
+    },
+    "service": {
+      "entropy": "2Au7iDXyhThMB3j7F+98TmnF",
+      "name": "github",
+      "username": "jokerjim65"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568483065,
+  "expire_in": 504576000,
+  "prev": "a62f432a6f5b5affc1bfa9b61bf49943f8c534e68c76650e129d47f9ad042b63",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASCWmKrHtVkqXTleibx573YOxWHp1vznrslgjgpgg1qZpAo](https://keybase.io/jokerjim), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglpiqx7VZKl05Xom8ee92DsVh6db8567JYI4KYINamaQKp3BheWxvYWTESpcCBsQgpi9DKm9bWv/Bv6m2G/SZQ/jFNOaMdmUOEp1H+a0EK2PEILSTGCLn271X5IZSYMha4+iCXIj9UyRT/i8AmkanfHKZAgHCo3NpZ8RAMunauxCq3E8WkIYyci9ZOBn3p/49OQ+PNkBzJZMh5bCjQVmp3NZJ0GPTEz5o1RLlz90ijWVUSAh9Yk21MkcmA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAOCbfF57JKMjH/AAlhITa5LOf8XEJ2ftWod/wHSgBkjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jokerjim
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jokerjim
+```
